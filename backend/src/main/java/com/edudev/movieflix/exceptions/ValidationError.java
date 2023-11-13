@@ -1,5 +1,7 @@
 package com.edudev.movieflix.exceptions;
 
+import com.edudev.movieflix.resources.exceptions.FieldMessage;
+
 import java.util.ArrayList;
 import java.util.List;
 

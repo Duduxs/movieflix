@@ -1,6 +1,6 @@
 package com.edudev.movieflix.exceptions;
 
-import com.lucasmonteiro.movieflix.services.exceptions.ResourceNotFoundException;
+import com.edudev.movieflix.services.exceptions.ResourceNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;
