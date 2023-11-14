@@ -36,10 +36,10 @@ const CreateAccount = () => {
       method: 'POST',
       data: payload
     }).then(() => {
-      toast.success('Conta criada com sucesso 🥳')
+      toast.success('Conta criada com sucesso')
       history.push('/login')
     }).catch(() => {
-      toast.error('Erro ao tentar criar a conta 😢')
+      toast.error('Erro ao tentar criar a conta')
     })
   }
 
