@@ -1,2 +1,1 @@
-# movieflix
-TODO make readme
+# MovieFlix - TODO make readme
