@@ -1,4 +1,4 @@
-package com.edudev.movieflix.tests.web.it;
+package com.edudev.movieflix.tests.resources.it;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
